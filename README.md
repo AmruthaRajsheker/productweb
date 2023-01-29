@@ -574,12 +574,17 @@ contact.html
 ```
 
 ## Output:
+
 ![output](/1.png)
+
 ![output](/2.png)
+
 ![output](/3.png)
+
 ![output](/4.png)
 
 ## HTML Validator:
+
 ![output](/5.png)
 
 ## Result:
